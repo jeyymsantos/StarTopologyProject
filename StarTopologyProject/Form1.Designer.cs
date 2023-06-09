@@ -1093,7 +1093,7 @@
             this.Controls.Add(this.guna2Panel22);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "Star Topology";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.comp_10)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.comp_9)).EndInit();
